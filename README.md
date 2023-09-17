@@ -54,6 +54,7 @@ async def trade_cancel_order(request):
     return response.json({'cancel_order_result': cancel_order_result}, ensure_ascii=False)
 ```
 
+
 开通渠道：
 ![](./src/ufc200.png)
 
