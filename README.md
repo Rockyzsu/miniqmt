@@ -57,4 +57,5 @@ async def trade_cancel_order(request):
 
 开通渠道：
 ![](./src/ufc200.png)
-（如果图片刷新不出来，可以直接加微信：distantance）
+
+* （如果图片刷新不出来，可以直接加微信：distantance）
